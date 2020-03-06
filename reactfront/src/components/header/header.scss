@@ -1,0 +1,26 @@
+.bg-custom {
+  background-color: #000000;
+}
+
+header{
+  margin-bottom: 50px;
+}
+
+#root > div > header > nav > a{
+  color: #ffffff;
+  background-color: #ff5900;
+}
+
+#navbarNavAltMarkup > div > a{
+  color: #ffffff;
+}
+
+#root > div > header > nav > a > p{
+  font-size: 40px;
+  width: 70px;
+  text-align: center;
+}
+
+#root > div > header > nav > button{
+  background-color: #ffffff;
+}

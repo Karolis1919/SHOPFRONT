@@ -1,0 +1,15 @@
+main h3 {
+  text-align: center;
+  font-size: 36px;
+  margin-bottom: 60px; }
+
+img {
+  max-width: 100%; }
+
+#root > div > main > div > div > div > div > div > div.card-body > p {
+  text-align: center; }
+
+#root > div > main > div > div > div > div > div > div.card-body > h5 > a {
+  text-align: center; }
+
+/*# sourceMappingURL=main.css.map */
